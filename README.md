@@ -15,7 +15,7 @@ SemanticApp is an interactive Knowledge Graph and Semantic Search web applicatio
 
 ### Database Document
 
-📄 semanticapp_sample_trioles.csv
+📄 semanticapp_sample_triples.csv
 
 ### Note
 
